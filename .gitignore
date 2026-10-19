@@ -15,3 +15,9 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+!/storage/app/
+/storage/app/*
+!/storage/app/public/
+/storage/app/public/*
+!/storage/app/public/uploaded-karya/
+!/storage/app/public/uploaded-karya/**
